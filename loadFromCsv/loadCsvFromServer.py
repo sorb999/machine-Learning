@@ -1,7 +1,7 @@
 # Import the `pandas` library as `pd`
 import pandas as pd
 
-# Load in the data from server with `read_csv()`
+# Load in the data from local with `read_csv()`
 digits = pd.read_csv("http://archive.ics.uci.edu/ml/machine-learning-databases/optdigits/optdigits.tra", header=None)
 
 # Print out `digits`
