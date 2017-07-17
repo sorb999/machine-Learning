@@ -19,3 +19,8 @@ print(colnames)
 print('mydataframe:')
 print(mydataframe)
 
+
+print('return first	2 rows:')
+
+rows = mydataframe.head(2);
+print(rows)
