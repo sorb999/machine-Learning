@@ -1,4 +1,4 @@
-### machineLearning
+### machine Learning
 
 Machine Learning Projects for beginners.
 
