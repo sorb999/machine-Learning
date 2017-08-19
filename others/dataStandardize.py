@@ -4,7 +4,7 @@ import pandas
 import pdb
 import numpy
 url = "https://goo.gl/vhm1eU"
-# pdb.set_trace()
+pdb.set_trace()
 names = ['preg', 'plas', 'pres', 'skin', 'test', 'mass', 'pedi', 'age', 'class']
 dataframe = pandas.read_csv(url, names=names)
 array = dataframe.values
