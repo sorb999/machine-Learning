@@ -6,7 +6,7 @@
 
 # data = pandas.read_csv("abc.tra", header=None)
 # scatter_matrix(data)
-# plt.show()
+# plt.show()a
 
 
 
